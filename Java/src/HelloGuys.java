@@ -5,5 +5,7 @@ public class HelloGuys {
 		System.out.println("Hello Guys");
 
 	}
-
+	public void hello(){
+	System.out.println("Hello I am in hello method");
+	}
 }
